@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+temp_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional)
+*.pkl
+*.joblib
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
